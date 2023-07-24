@@ -51,16 +51,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
 </p>
 <!-- Create a table -->
-<p align="center">
-<table>
-  <tr>
-    <!-- Second column for Top Languages -->
-    <td>
+
+
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimwepati&theme=radical&layout=compact" alt="ishimwepati's Top Languages">
-    </td>
-  </tr>
-</table>
-</p>
+  
+
 
 
 <p align="center">
