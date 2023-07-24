@@ -1,4 +1,4 @@
-![](![Bottom_up](https://github.com/ishimwepati/ishimwepati/assets/14818338/5ed9e440-fce5-475d-9796-8cfdd42a32eb)
+(![Bottom_up](https://github.com/ishimwepati/ishimwepati/assets/14818338/5ed9e440-fce5-475d-9796-8cfdd42a32eb)
 
 <!-- Your Name -->
 <h1 align="center">🚀 ISHIMWE JOSEPH WazaCode</h1>
@@ -22,17 +22,6 @@
 
 <!-- Showcase Projects -->
 <h2 align="center">🚀 Some of my Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/yourusername/project-1" target="_blank" rel="noopener noreferrer">
-    <img src="project1-thumbnail.png" alt="Project 1" width="200">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yourusername/project-2" target="_blank" rel="noopener noreferrer">
-    <img src="project2-thumbnail.png" alt="Project 2" width="200">
-  </a>
-  <!-- Add more project thumbnails here -->
-</p>
 
 <!-- Project Descriptions -->
 <p align="center">
