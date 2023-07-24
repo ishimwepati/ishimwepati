@@ -53,10 +53,6 @@
 <!-- Create a table -->
 <table>
   <tr>
-    <!-- First column for GitHub Stats -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&theme=radical&include_all_commits=true" alt="ishimwepati's GitHub Stats">
-    </td>
     <!-- Second column for Top Languages -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimwepati&theme=radical&layout=compact" alt="ishimwepati's Top Languages">
