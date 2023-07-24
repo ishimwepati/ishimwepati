@@ -6,7 +6,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Hi there! 👋 I'm a passionate Frontend Developer and UX enthusiast on a mission to create stunning web experiences that leave a lasting impact. I'm all about turning ideas into reality through clean code and thoughtful design.
+  Hi there! 👋 I'm a passionate Frontend Developer on a mission to create stunning web experiences that leave a lasting impact. I'm all about turning ideas into reality through clean code and thoughtful design.
 </p>
 
 <!-- Badges -->
