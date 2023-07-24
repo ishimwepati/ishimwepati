@@ -51,6 +51,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
 </p>
 <!-- Create a table -->
+<p align="center">
 <table>
   <tr>
     <!-- Second column for Top Languages -->
@@ -59,6 +60,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 
 <p align="center">
