@@ -44,13 +44,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
-| ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishimwepati&theme=radical&layout=compact) |
 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
 </p>
+| ![ishimwepati's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishimwepati&theme=radical&layout=compact) |
+
 <p align="center">
   "I am always excited to take on new challenges and work together with like-minded individuals. 
    If you have a passion for excellence and innovation, I invite you to join forces with me. 
