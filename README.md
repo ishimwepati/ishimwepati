@@ -9,7 +9,7 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="Frontend Developer">
-  <img src="https://img.shields.io/badge/CSS-Advanced-blue" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/CSS-Expert-blue" alt="Frontend Developer">
   <img src="https://img.shields.io/badge/JavaScript-Guru-yellow" alt="Frontend Developer">
   <img src="https://img.shields.io/badge/WordPress-Contributor-brightgreen" alt="Frontend Developer">
   <img src="https://img.shields.io/badge/Git-Enthusiast-lightgrey" alt="Frontend Developer">
