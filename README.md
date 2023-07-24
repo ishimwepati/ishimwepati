@@ -21,9 +21,6 @@
   <img src="https://img.shields.io/badge/GitHub-Active-blueviolett" alt="React Advocate">
 </p>
 
-<!-- Showcase Projects -->
-<h2 align="center">🚀 Some of my Projects</h2>
-
 <!-- Project Descriptions -->
 <p align="center">
   Check out my projects above to see my skills in action! Each project is a blend of creativity, interactivity, and performance. 🎨💡
