@@ -45,9 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<!-- Let's Connect -->
-<h2 align="center">🤝 Let's Connect</h2>
-
 <!-- Create a table and center it -->
 <table align="center">
   <tr>
@@ -57,6 +54,7 @@
     </td>
   </tr>
 </table>
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
 </p>
