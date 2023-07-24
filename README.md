@@ -44,7 +44,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
-
+<br>
+<br>
+<br>
 <!-- Create a table and center it -->
 <table align="center">
   <tr>
@@ -54,6 +56,8 @@
     </td>
   </tr>
 </table>
+<br>
+<br>
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
