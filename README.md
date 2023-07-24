@@ -50,13 +50,15 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
 </p>
-<!-- Create a table -->
-
-
+<!-- Create a table and center it -->
+<table align="center">
+  <tr>
+    <!-- Single column for Top Languages -->
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimwepati&theme=radical&layout=compact" alt="ishimwepati's Top Languages">
-  
-
-
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   "I am always excited to take on new challenges and work together with like-minded individuals. 
