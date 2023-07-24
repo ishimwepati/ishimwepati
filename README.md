@@ -1,5 +1,5 @@
 <!-- Your Name -->
-<h1 align="center">🚀 ISHIMWE JOSEPH WazaCode<h1>
+<h1 align="center">🚀 ISHIMWE JOSEPH WazaCode</h1>
 
 <!-- Introduction -->
 <p align="center">
