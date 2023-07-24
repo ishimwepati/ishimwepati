@@ -40,7 +40,6 @@
 
 <!-- GitHub Stats -->
 <br>
-<br>
 <h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
@@ -72,7 +71,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">📧 Email</a> |
+  <a href="mailto:wazacode@gmail.com target="_blank" rel="noopener noreferrer">📧 Email</a> |
   <a href="https://www.linkedin.com/in/ishimwe-joseph-patient-0537b4155/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> |
   <a href="https://twitter.com/Patientmusafir1" target="_blank" rel="noopener noreferrer">🐦 Twitter</a>
   <a href="https://www.instagram.com/patient_musafiri_papus/" target="_blank" rel="noopener noreferrer">🐦 Instagram</a>
