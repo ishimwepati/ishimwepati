@@ -47,7 +47,9 @@
 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimwepati"></img>
+</p>
 <p align="center">
   "I am always excited to take on new challenges and work together with like-minded individuals. 
    If you have a passion for excellence and innovation, I invite you to join forces with me. 
