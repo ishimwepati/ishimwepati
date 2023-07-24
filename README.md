@@ -1,3 +1,4 @@
+<img src="![Uploading Bottom_up.svg…]()" alt="Frontend Developer">
 <!-- Your Name -->
 <h1 align="center">🚀 ISHIMWE JOSEPH WazaCode</h1>
 
@@ -19,7 +20,7 @@
 </p>
 
 <!-- Showcase Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Some of my Projects</h2>
 
 <p align="center">
   <a href="https://github.com/yourusername/project-1" target="_blank" rel="noopener noreferrer">
