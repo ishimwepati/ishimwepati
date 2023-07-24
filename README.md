@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishimwepati&theme=radical&layout=compact) |
 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
