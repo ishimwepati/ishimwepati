@@ -47,11 +47,7 @@
 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ishimwepati" width="auto"></img>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 <p align="center">
   "I am always excited to take on new challenges and work together with like-minded individuals. 
    If you have a passion for excellence and innovation, I invite you to join forces with me. 
