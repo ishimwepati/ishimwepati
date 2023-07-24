@@ -1,4 +1,4 @@
-<img src="![Uploading Bottom_up.svg…]()" alt="Frontend Developer">
+<img src="" alt="Frontend Developer">
 <!-- Your Name -->
 <h1 align="center">🚀 ISHIMWE JOSEPH WazaCode</h1>
 
@@ -47,6 +47,10 @@
 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ishimwepati" width="auto"></img>
 
 <p align="center">
   "I am always excited to take on new challenges and work together with like-minded individuals. 
