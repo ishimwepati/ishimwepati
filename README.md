@@ -1,9 +1,6 @@
 
-<table align="center">
-  <tr>
+
       ![Bottom_up](https://github.com/ishimwepati/ishimwepati/assets/14818338/5ed9e440-fce5-475d-9796-8cfdd42a32eb)
-  </tr>
-</table>
 <!-- Your Name -->
 <h1 align="center">🚀 ISHIMWE JOSEPH WazaCode</h1>
 
