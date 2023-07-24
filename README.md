@@ -34,23 +34,28 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">📈 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishimwepati&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Let's Connect -->
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+  "I am always excited to take on new challenges and work together with like-minded individuals. 
+   If you have a passion for excellence and innovation, I invite you to join forces with me. 
+  Let's combine our skills and creativity to build something truly remarkable and make a positive impact together."
   I'm always open to new challenges and collaborations. Let's build something remarkable together! 💼🌟
 </p>
 
 <p align="center">
   <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">📧 Email</a> |
-  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> |
-  <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">🐦 Twitter</a>
+  <a href="https://www.linkedin.com/in/ishimwe-joseph-patient-0537b4155/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> |
+  <a href="https://twitter.com/Patientmusafir1" target="_blank" rel="noopener noreferrer">🐦 Twitter</a>
+  <a href="https://www.instagram.com/patient_musafiri_papus/" target="_blank" rel="noopener noreferrer">🐦 Instagram</a>
+  <a href="https://www.facebook.com/patient.musafiri" target="_blank" rel="noopener noreferrer">🐦 Facebook</a>
 </p>
 
 <!-- Footer -->
