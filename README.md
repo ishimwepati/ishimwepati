@@ -8,10 +8,13 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-HTML%20%7C%20CSS%20%7C%20JavaScript-blue" alt="Frontend Developer">
-  <img src="https://img.shields.io/badge/React%20Advocate-%E2%9D%A4%EF%B8%8F%20React-blueviolet" alt="React Advocate">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green" alt="Open Source Contributor">
-  <img src="https://img.shields.io/badge/UI%20%7C%20UX%20Designer-Adobe%20XD%20%7C%20Figma%20%7C%20Sketch-yellow" alt="UI/UX Designer">
+  <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/CSS-Advanced-blue" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/JavaScript-Guru-yellow" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/WordPress-Contributor-brightgreen" alt="Frontend Developer">
+  <img src=" https://img.shields.io/badge/Git-Enthusiast-lightgrey" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/HTML-Expert-orange" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/GitHub-Active-blueviolett" alt="React Advocate">
 </p>
 
 <!-- Showcase Projects -->
